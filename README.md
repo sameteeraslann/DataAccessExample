@@ -1,4 +1,4 @@
-# DataAccessExample
+# İçindekiler
 DataAccess_Lab1: SQL Komutları/AGGREGATE FONKSİYONLAR 
 
 DataAccess_Lab2: LING TO ENTİTY & LING TO SQL Sorguları ile Karışık Örnekler
