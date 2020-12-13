@@ -7,4 +7,5 @@ DataAccess_Lab3_CodeFirstNortwind : Northwind Tablosunu 'Entity Freamwork' ile D
 
 DataAccess_Lab4 : Entity Freamwork ile Masaüstü Uygulamasını Database Bağlayıp (Ekleme-Silme-Güncelleme-Arama) İşlemlerinin Yapılması Örneği.
 
-https://app.gitbook.com/@samettt18/s/c-not/~/drafts/-MMw92J_Lt0o2PcePw63/
+Daha Detaylı Bilgiye Gitbook'uma girerek edinebilirsiniz.
+https://samettt18.gitbook.io/c-notlarim/
